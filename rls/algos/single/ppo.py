@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # encoding: utf-8
 
-#test change something
 
 import numpy as np
 import tensorflow as tf
